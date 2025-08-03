@@ -52,15 +52,15 @@
 
 ---
 
-### 🧩 Fun Fact
-
-When I'm not coding, I'm probably exploring new fintech ideas, mentoring juniors, or studying product-led growth strategies.
-
----
-
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
 </p>
+
+---
+
+### 🧩 Fun Fact
+
+When I'm not coding, I'm probably exploring new fintech ideas, mentoring juniors, or studying product-led growth strategies.
 
 ---
 
