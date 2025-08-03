@@ -1,8 +1,4 @@
 <div align="center">
-	<img src="assets/welcome-header.gif" alt="welcome to my github profile">
-</div>
-
-<div align="center">
 	<img src="assets/header_1.png" alt="Banner">
 	<br>
 </div>
