@@ -74,6 +74,6 @@ When I'm not coding, I'm probably exploring new fintech ideas, mentoring juniors
 
 ### 🌱 Currently Exploring
 
-- Rust for systems programming  
+- Rust, Go for systems programming  
 - Temporal for workflow orchestration  
 - Advanced GraphQL federation patterns
